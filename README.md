@@ -1,4 +1,4 @@
-# Relogio
+# Relógio de Ponteiro
 
 Projeto criado com o objetivo de praticar a aplicabilidade de JavaScript e CSS.
 
