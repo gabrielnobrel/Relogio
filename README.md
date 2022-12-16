@@ -2,12 +2,13 @@
 
 Projeto criado com o objetivo de praticar a aplicabilidade de JavaScript e CSS.
 
-![preview 1](./.github/127.0.0.1_5500_index.html.png)
+![preview 1](<./.github/relogio-amber.vercel.app_%20(2).png>)
 
 ### **Funcionalidades**
+
 O trabalho tem como funcionalidade principal de capturar a hora apresentada em sua máquina pessoal e reproduzir em um relógio de ponteiros.
 
-[🔗 Clique aqui para acessar o projeto]()
+[🔗 Clique aqui para acessar o projeto](https://relogio-amber.vercel.app/)
 
 ## ⚙️Tecnologias
 
